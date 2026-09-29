@@ -1,0 +1,13 @@
+{
+  "name": "emotion-detection-app",
+  "version": "1.0.0",
+  "description": "A real-time emotion detection chatbot application",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "start:text": "python main.py --text-chat"
+  },
+  "keywords": ["emotion", "detection", "chatbot", "AI", "python"],
+  "author": "Sonu & NinjaTech AI Team",
+  "license": "MIT"
+}
